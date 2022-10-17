@@ -2,3 +2,7 @@ C:\Users\Abdulrahman\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcx
 C:\Users\Abdulrahman\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
 C:\Users\Abdulrahman\source\repos\Calculator\Calculator\x64\Debug\Calculator.MainForm.resources
 C:\Users\Abdulrahman\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\Abdulrahman\Documents\GitHub\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\Abdulrahman\Documents\GitHub\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Abdulrahman\Documents\GitHub\Calculator2\Calculator\x64\Debug\Calculator.MainForm.resources
+C:\Users\Abdulrahman\Documents\GitHub\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
