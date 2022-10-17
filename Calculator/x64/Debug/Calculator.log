@@ -1,0 +1,11 @@
+﻿  MainForm.cpp
+C:\Users\Abdulrahman\source\repos\Calculator\Calculator\MainForm.cpp(27,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abdulrahman\source\repos\Calculator\Calculator\MainForm.cpp(35,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdulrahman\source\repos\Calculator\Calculator\MainForm.cpp(235,89): warning C4566: character represented by universal-character-name '\u221A' cannot be represented in the current code page (1252)
+C:\Users\Abdulrahman\source\repos\Calculator\Calculator\MainForm.cpp(260,2): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4044: unrecognized option '/u221A'; ignored
+LINK : warning LNK4044: unrecognized option '/UTF-8'; ignored
+  Calc.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : warning LNK4044: unrecognized option '/u221A'; ignored
+LINK : warning LNK4044: unrecognized option '/UTF-8'; ignored
+  Calculator.vcxproj -> C:\Users\Abdulrahman\source\repos\Calculator\x64\Debug\Calculator.exe
